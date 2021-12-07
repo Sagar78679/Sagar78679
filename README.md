@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mining
 - 🌱 I’m currently learning Code Devlopment
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by mail sgrkosta@gmail.com or whatsaap +918982097339
+- 📫 reach me by mail sgrkosta@gmail.com or whatsaap +918982097339
 
 <!---
 Sagar78679/Sagar78679 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
